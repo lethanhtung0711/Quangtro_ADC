@@ -4,7 +4,7 @@
 Dự án này được thực hiện nhằm **kiểm tra hoạt động của quang trở (LDR)** trên vi điều khiển **ESP32**, 
 đồng thời **hiển thị đồ thị cường độ ánh sáng theo thời gian thực** bằng công cụ [Teleplot](https://marketplace.visualstudio.com/items?itemName=alexnesnes.teleplot).
 
-Dự án được phát triển trên **PlatformIO (VS Code)** với mục tiêu giúp sinh viên hiểu rõ nguyên lý đọc tín hiệu ADC, 
+Dự án được phát triển trên **PlatformIO (VS Code)** với mục tiêu giúp hiểu rõ nguyên lý đọc tín hiệu ADC, 
 chuyển đổi tương tự – số và hiển thị dữ liệu cảm biến một cách trực quan.
 
 ---
