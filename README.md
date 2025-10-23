@@ -1,4 +1,4 @@
-#  ESP32 LDR Light Sensor – Teleplot Visualization
+#  ESP32 LDR Light Sensor – Teleplot 
 
 ## 🔍 Giới thiệu
 Dự án này được thực hiện nhằm **kiểm tra hoạt động của quang trở (LDR)** trên vi điều khiển **ESP32**, 
