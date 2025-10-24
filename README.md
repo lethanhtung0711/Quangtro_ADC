@@ -11,9 +11,7 @@ chuyển đổi tương tự – số và hiển thị dữ liệu cảm biến 
 
 ##  **Chức năng chính**
 - Đọc giá trị ánh sáng (0–4095) từ cảm biến quang trở (LDR) qua kênh ADC của ESP32  
-- Gửi dữ liệu qua cổng UART để **Teleplot** hiển thị dạng đồ thị  
-- Theo dõi sự thay đổi độ sáng theo thời gian thực  
-- Có thể mở rộng để điều khiển thiết bị (ví dụ bật/tắt đèn tự động)
+- Gửi dữ liệu qua cổng UART để **Teleplot** hiển thị dạng đồ thị   
 
 --- 
 
